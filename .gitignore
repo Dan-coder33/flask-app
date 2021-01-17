@@ -114,6 +114,7 @@ env.bak/
 venv.bak/
 
 python_env/
+python_env
 
 # Spyder project settings
 .spyderproject
@@ -142,3 +143,4 @@ cython_debug/
 ngrok.exe
 
 django.db.backends.postgresql
+/python_env/
